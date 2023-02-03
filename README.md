@@ -1,5 +1,5 @@
 # ghibli_recipes
-a silly pour html recipe book
+a silly poor html recipe book
 
 inspo&info: 
 
