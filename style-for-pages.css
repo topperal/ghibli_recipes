@@ -10,6 +10,7 @@ img {
 }
 
 .info-container {
+    margin-left: 16px;
     display: flex;
     justify-content: initial;
     width: 420px;
