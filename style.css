@@ -33,3 +33,9 @@ img {
     border-radius: 50px;
     margin: 8px;
 }
+
+p {
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+}
