@@ -73,4 +73,6 @@ h1, h2, h3, p {
 
 .main-container img {
     margin-left: 60px;
+    display: flex;
+    justify-content: center;
 }
