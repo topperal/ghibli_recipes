@@ -12,8 +12,11 @@ img {
 .info-container {
     margin-left: 16px;
     display: flex;
-    justify-content: initial;
-    width: 420px;
+    justify-content: center;
+    flex: 1;
+    margin-left: 24px;
+    /* justify-content: initial;
+    width: 420px; */
     flex-direction: column;
 }
 
