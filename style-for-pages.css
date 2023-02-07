@@ -13,6 +13,7 @@ img {
     margin-left: 16px;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     flex: 1;
     margin-left: 24px;
     /* justify-content: initial;
@@ -73,6 +74,7 @@ img {
 h1, h2, h3, p {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .main-container img {
