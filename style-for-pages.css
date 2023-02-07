@@ -10,12 +10,11 @@ img {
 }
 
 .info-container {
-    margin-left: 16px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     flex: 1;
-    margin-left: 24px;
+    margin: 16px;
     /* justify-content: initial;
     width: 420px; */
     flex-direction: column;
@@ -75,10 +74,11 @@ h1, h2, h3, p {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    margin: 16px;
 }
 
 .main-container img {
-    margin-left: 60px;
+    margin-left: 40px;
     display: flex;
     justify-content: center;
 }
