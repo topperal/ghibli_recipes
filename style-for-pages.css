@@ -35,7 +35,7 @@ img {
 .special-info {
     border-radius: 50px;
     padding: 8px;
-    margin: 4px;
+    margin: 8px;
 }
 
 .type {
@@ -65,7 +65,7 @@ img {
 
 .main-container {
     flex: 2;
-    margin-left: 24px;
+    /* margin-left: 24px; */
 }
 
 .flex-container,
